@@ -29,3 +29,5 @@ bin/
 .DS_Store
 /LearningJava.iml
 /.idea/
+/target/classes/**
+/target/*.*
