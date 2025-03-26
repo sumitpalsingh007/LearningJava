@@ -1,4 +1,4 @@
-package com.helloworldconsulting.creationpatterns;
+package com.helloworldconsulting.designPatterns.creationpatterns;
 
 public class BuilderPatternExample {
     public static void main(String[] args) {

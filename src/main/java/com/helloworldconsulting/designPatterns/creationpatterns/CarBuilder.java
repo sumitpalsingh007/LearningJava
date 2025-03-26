@@ -1,4 +1,4 @@
-package com.helloworldconsulting.creationpatterns;
+package com.helloworldconsulting.designPatterns.creationpatterns;
 
 public class CarBuilder {
     private String engine;

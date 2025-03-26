@@ -1,4 +1,4 @@
-package com.helloworldconsulting.creationpatterns.factory;
+package com.helloworldconsulting.designPatterns.creationpatterns.factory;
 
 public class Bike implements Vehicle {
     @Override
